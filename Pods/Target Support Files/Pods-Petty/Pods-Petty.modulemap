@@ -1,0 +1,6 @@
+framework module Pods_Petty {
+  umbrella header "Pods-Petty-umbrella.h"
+
+  export *
+  module * { export * }
+}
